@@ -1,9 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-/* more headers goes there */
-
-/* betty style doc for function main goes there */
+/* 
+ * This code checks the positivity of a random number and then
+ * It prints a message accordingly.
+ */
 int main(void)
 {
 	int n;
