@@ -1,9 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-/* 
- * This code checks the positivity of a random number and then
- * It prints a message accordingly.
+/*
+ * main - an entry point 
+ * Description - This code checks the positivity of a random number and then it prints a message accordingly.
+ *
+ * Retrun: int
  */
 int main(void)
 {
